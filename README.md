@@ -1,2 +1,2 @@
 # VSCodePluginsKIMRT
-Плагины VSCode для ИСП
+Плагины VSCode для курсантов специальноси ИСП
